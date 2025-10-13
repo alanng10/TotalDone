@@ -36,6 +36,7 @@ emote for sense.
 
 ### WORTH GAIN TIER
 base worth.
+cloth.
 
 ### MARK DARK
 gain.
