@@ -47,6 +47,8 @@ lang.
 mary.
 land.
 xross.
+program lang.
+execute.
 endgame.
 
 ### MOST GAIN TIER
