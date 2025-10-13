@@ -13,3 +13,15 @@ TotalDone MARK MARK only may compete inf not enough land info.
 TotalDone has Care done.
 
 TotalDone Care done has Info by Sera.
+
+TotalDone Care done Info by Sera include:
+
+- SENSE GAIN TIER
+    base desire.
+- DARK DARK
+    desire for sense.
+- DARK MARK
+    recall for sense.
+    base emote for sense.
+- DARK PARK
+    emote for sense.
