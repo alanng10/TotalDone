@@ -57,6 +57,6 @@ most apply.
 most able.
 
 ### PARK PARK
-grand lang.
-grand element.
-grand xross.
+most lang.
+most element.
+most xross.
