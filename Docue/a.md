@@ -37,10 +37,12 @@ base worth.
 
 ### MARK DARK
 gain.
+base apply.
 
 ### MARK MARK
 value.
 benefit.
+apply.
 
 ### MARK PARK
 lang.
