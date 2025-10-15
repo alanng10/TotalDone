@@ -66,25 +66,25 @@ execute.
 endgame.
 
 ### MOST GAIN TIER
-most worth.
-most value.
-most certain.
+WORTH.
+VALUE.
+CERTAIN.
 
 ### PARK DARK
-most benefit.
-most noun.
-most did.
+BENEFIT.
+NOUN.
+DID.
 
 ### PARK MARK
-most mary.
-most land.
-most apply.
-most able.
-most class.
-most system.
-most execute.
+MARY.
+LAND.
+APPLY.
+ABLE.
+CLASS.
+SYSTEM.
+EXECUTE.
 
 ### PARK PARK
-most lang.
-most element.
-most xross.
+LANG.
+ELEMENT.
+XROSS.
