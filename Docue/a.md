@@ -66,6 +66,7 @@ execute.
 endgame.
 
 ### MOST GAIN TIER
+GAIN.
 WORTH.
 VALUE.
 CERTAIN.
