@@ -58,8 +58,8 @@ land.
 certain.
 xross.
 science force.
-program lang.
-system binary.
+class.
+system.
 tool module.
 execute.
 endgame.
