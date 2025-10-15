@@ -37,11 +37,12 @@ emote for sense.
 ### WORTH GAIN TIER
 base worth.
 cloth.
-tool.
+base tool.
 
 ### MARK DARK
 gain.
 base apply.
+tool.
 house.
 
 ### MARK MARK
