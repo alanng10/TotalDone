@@ -44,6 +44,7 @@ base tool.
 worth.
 gain.
 base apply.
+base able.
 base noun.
 base did.
 mine.
