@@ -60,6 +60,7 @@ able.
 noun.
 did.
 machine.
+base govern.
 
 ### MARK PARK
 lang.
@@ -77,6 +78,7 @@ tool module.
 execute.
 endgame.
 civil.
+govern.
 
 ### MOST GAIN TIER
 GAIN.
