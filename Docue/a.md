@@ -50,7 +50,6 @@ base did.
 mine.
 tool.
 house.
-base civil.
 
 ### MARK MARK
 value.
@@ -60,6 +59,7 @@ able.
 noun.
 did.
 machine.
+base civil.
 base govern.
 
 ### MARK PARK
