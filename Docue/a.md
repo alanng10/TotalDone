@@ -59,6 +59,7 @@ apply.
 able.
 noun.
 did.
+base science force.
 machine.
 base civil.
 base govern.
