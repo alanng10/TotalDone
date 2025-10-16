@@ -36,13 +36,13 @@ emote for sense.
 
 ### WORTH GAIN TIER
 base lang.
+gain.
 base worth.
 base mine.
 cloth.
 base tool.
 
 ### MARK DARK
-gain.
 worth.
 base certain.
 base apply.
