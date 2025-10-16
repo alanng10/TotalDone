@@ -36,6 +36,7 @@ emote for sense.
 
 ### WORTH GAIN TIER
 base worth.
+base mine.
 cloth.
 base tool.
 
@@ -43,6 +44,7 @@ base tool.
 worth.
 gain.
 base apply.
+mine.
 tool.
 house.
 base civil.
