@@ -42,8 +42,8 @@ cloth.
 base tool.
 
 ### MARK DARK
-worth.
 gain.
+worth.
 base certain.
 base apply.
 base able.
