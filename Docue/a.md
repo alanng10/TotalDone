@@ -71,7 +71,7 @@ base govern.
 lang.
 mary.
 land.
-certain. 
+certain.
 xross.
 science physic.
 science chemis.
