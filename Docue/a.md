@@ -8,7 +8,7 @@ TotalDone MARK entire tier may malign inf not enough certain info.
 
 TotalDone MARK DARK only may lazy inf not enough benefit info.
 
-TotalDone MARK MARK only may compete inf not enough land info. 
+TotalDone MARK MARK only may compete inf not enough land info.
 
 TotalDone gone more high is certain by SERA.
 
