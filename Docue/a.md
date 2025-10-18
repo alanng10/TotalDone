@@ -78,7 +78,7 @@ science chemis.
 science biolog.
 class.
 system.
-effect. 
+effect.
 tool module.
 execute.
 endgame.
