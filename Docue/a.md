@@ -72,7 +72,7 @@ lang.
 mary.
 land.
 certain.
-xross.
+xross. 
 science physic.
 science chemis.
 science biolog.
