@@ -79,6 +79,7 @@ system.
 system machine.
 effect.
 tool module.
+plat style.
 execute.
 endgame.
 civil.
@@ -104,6 +105,7 @@ CLASS.
 SYSTEM.
 EFFECT.
 TOOL MODULE.
+PLAT STYLE.
 EXECUTE.
 CIVIL.
 
