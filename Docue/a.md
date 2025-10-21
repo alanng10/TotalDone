@@ -10,6 +10,8 @@ TotalDone MARK DARK only may lazy inf not enough benefit info.
 
 TotalDone MARK MARK only may compete inf not enough land info.
 
+TotalDone PARK entire tier is un malign.
+
 TotalDone gone more high is certain by SERA.
 
 TotalDone has Care done.
