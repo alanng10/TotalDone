@@ -4,6 +4,8 @@ TotalDone is Titan Total Done.
 
 TotalDone MARK entire tier may malign inf not enough CERTAIN.
 
+TotalDone MARK PARK is element more WORTH than TotalDone MARK MARK.
+
 TotalDone has Care done.
 
 ## Care
