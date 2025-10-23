@@ -2,6 +2,8 @@
 
 TotalDone is Titan Total Done.
 
+TotalDone MARK entire tier may malign inf not enough CERTAIN.
+
 TotalDone has Care done.
 
 ## Care
